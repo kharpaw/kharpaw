@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Kharel</h1>
 
 <h3 align="center">
-  A passionate Software Developer from Helsinki, Finland 🇫🇮
+  A passionate Software Developer
 </h3>
 
 <p align="center">
@@ -23,15 +23,16 @@
 ---
 
 ## 🔭 Current Work
-- Working on **Web Design**
+- Working as a **Web Developer**
 
 ## 🌱 Currently Learning
-- Web Design
+- Web Developnment
 - Frameworks
 - Modern JavaScript
 - Back-End Development
+- Python
 
-I am currently focused on web design, frameworks, modern JavaScript, and back-end development as part of my software development studies. I aim to strengthen my skills in creating responsive and user-friendly websites, working with popular frameworks, and developing efficient server-side functionalities.
+Results-driven software development student with a strong foundation in modern web technologies. Proficient in JavaScript and industry-leading frameworks, including React, with hands-on experience in server-side development using Node.js. Demonstrates comprehensive expertise in WordPress, encompassing theme customization, plugin integration, and performance optimization..
 
 My goal is to build robust, dynamic, and scalable web applications that meet user needs.
 
