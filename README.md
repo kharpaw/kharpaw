@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/kharpaw">
-    <img src="https://img.shields.io/badge/GitHub-kharpaw-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-kharpaw-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -16,30 +16,28 @@
 
 ## 🚀 About Me
 
-* 🔭 Working as a **Web Developer**
-* 🌱 Currently learning:
+* 🔭 Currently working as a **Web Developer**
+* 🌱 Learning:
 
   * Modern JavaScript
   * React
   * Node.js
   * Back-End Development
   * Python
-* 💡 Interested in building scalable and user-friendly web applications.
-* 🎯 Goal: Build robust software solutions that solve real-world problems.
+* 💡 Passionate about creating scalable and user-friendly web applications.
+* 🎯 Goal: Build software that helps people and solves real-world problems.
 
 ---
 
 ## 📝 Professional Summary
 
-Results-driven Software Development student with a strong foundation in modern web technologies. Proficient in JavaScript and modern frameworks including React, with hands-on experience in server-side development using Node.js. Experienced in WordPress development, theme customization, plugin integration, and website performance optimization.
+Results-driven Software Development student with a strong foundation in modern web technologies. Skilled in JavaScript, React, Node.js, HTML, CSS, PHP, MySQL, and WordPress development.
 
-Passionate about continuous learning and creating dynamic, scalable, and efficient applications.
+Experienced in developing responsive websites, customizing WordPress themes and plugins, and optimizing website performance. Passionate about continuous learning and building innovative digital solutions.
 
 ---
 
-## 💡 WordPress
-
-I have solid experience with **WordPress**, including:
+## 💡 WordPress Skills
 
 * Theme Customization
 * Plugin Integration
@@ -51,21 +49,21 @@ I have solid experience with **WordPress**, including:
 
 ## 📫 Contact
 
-* Email: **[kharelpawan1@gmail.com](mailto:kharelpawan1@gmail.com)**
+* 📧 Email: **[kharelpawan1@gmail.com](mailto:kharelpawan1@gmail.com)**
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
 </p>
 
 ---
@@ -80,10 +78,6 @@ I have solid experience with **WordPress**, including:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharpaw&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=kharpaw&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -94,7 +88,7 @@ I have solid experience with **WordPress**, including:
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/kharpaw">
@@ -104,4 +98,4 @@ I have solid experience with **WordPress**, including:
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
