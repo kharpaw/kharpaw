@@ -58,26 +58,9 @@ Experienced in developing responsive websites, customizing WordPress themes and 
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kharpaw&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharpaw&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kharpaw&theme=tokyonight&count_private=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kharpaw&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
