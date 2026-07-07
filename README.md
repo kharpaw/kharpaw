@@ -13,11 +13,15 @@
 
 ## 🚀 About Me
 * 🔭 Currently working as a **Web Developer**
-* 🌱 Learning:
-  * Modern JavaScript
-  * React
-  * Node.js
-  * Back-End Development
+* 💻 Core Skills:
+  * **JavaScript** — Fluent
+  * **Python** — Proficent
+  * **React** — Proficient
+  * **Node.js** — Proficient
+  * **HTML/CSS** — Proficient
+  * **PHP & MySQL** — Proficient
+* 🌱 Currently Learning:
+  * Advanced Back-End Development
   * Python
 * 💡 Passionate about creating scalable and user-friendly web applications.
 * 🎯 Goal: Build software that helps people and solves real-world problems.
@@ -25,8 +29,7 @@
 ---
 
 ## 📝 Professional Summary
-Results-driven Software Development student with a strong foundation in modern web technologies. Skilled in JavaScript, React, Node.js, HTML, CSS, PHP, MySQL, and WordPress development.
-Experienced in developing responsive websites, customizing WordPress themes and plugins, and optimizing website performance. Passionate about continuous learning and building innovative digital solutions.
+Exploring programming and looking forward to continuously improving myself focusing more on concepts and how systems scale. I’d really like to get more into low-level programming later on. I can create optimized backends, build systems, infrastructure, some DevOps work, basic websites, and Android/iOS applications, and soon I’ll be able to make games as well :)
 
 ---
 
