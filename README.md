@@ -60,7 +60,7 @@ Experienced in developing responsive websites, customizing WordPress themes and 
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kharpaw&theme=tokyonight&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kharpaw&theme=tokyonight&count_private=true" alt="GitHub Streak" />
 </p>
 
 ---
