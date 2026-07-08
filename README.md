@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pawan Kharel
+# Hi , It's me Pawan Kharel
 ### Software Developer
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kharpaw&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -45,6 +45,10 @@ Exploring programming and looking forward to continuously improving myself focus
 ## 📫 Contact
 * 📧 Email: **[kharelpawan1@gmail.com](mailto:kharelpawan1@gmail.com)**
 
+---
+
+## 📫 Linkedin
+* https://www.linkedin.com/in/pawan-kharel-61673a300/?locale=en
 ---
 
 ## 🔥 GitHub Streak
