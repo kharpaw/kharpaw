@@ -48,7 +48,7 @@ Exploring programming and looking forward to continuously improving myself focus
 ---
 
 ## 📫 Linkedin
-* https://www.linkedin.com/in/pawan-kharel-61673a300/?locale=en
+[LinkedIn](https://www.linkedin.com/in/pawan-kharel-61673a300/?locale=en)
 ---
 
 ## 🔥 GitHub Streak
